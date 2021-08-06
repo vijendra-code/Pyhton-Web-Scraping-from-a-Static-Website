@@ -29,3 +29,5 @@ In this notebook, we will learn how to scrape some data from a static website. A
  > Store the data in the required format.
 
 In this Jupyter Notebook, we are scraping news articles from  'https://www.politifact.com/'. The data includes Title, author, category, date, summary, full article and sources of the article.
+
+Reference : https://randerson112358.medium.com/scrape-a-political-website-for-fake-real-news-using-python-b4f5b2af830b
