@@ -8,7 +8,8 @@ In this notebook, we will learn how to scrape some data from a static website. A
  
  > bs4 - Beautiful Soup is a Python package for parsing HTML and XML documents. It creates parse trees that is helpful to extract the data easily.
  
- > pandas
+ > pandas - to store the data in a structured format
+
  
 #### Steps:
 
